@@ -1,0 +1,14 @@
+C:\Users\tulio\source\repos\CreditoApi\bin\Debug\netcoreapp2.1\CreditoApi.deps.json
+C:\Users\tulio\source\repos\CreditoApi\bin\Debug\netcoreapp2.1\CreditoApi.runtimeconfig.json
+C:\Users\tulio\source\repos\CreditoApi\bin\Debug\netcoreapp2.1\CreditoApi.runtimeconfig.dev.json
+C:\Users\tulio\source\repos\CreditoApi\bin\Debug\netcoreapp2.1\CreditoApi.dll
+C:\Users\tulio\source\repos\CreditoApi\bin\Debug\netcoreapp2.1\CreditoApi.pdb
+C:\Users\tulio\source\repos\CreditoApi\obj\Debug\netcoreapp2.1\CreditoApi.csprojAssemblyReference.cache
+C:\Users\tulio\source\repos\CreditoApi\obj\Debug\netcoreapp2.1\CreditoApi.csproj.CoreCompileInputs.cache
+C:\Users\tulio\source\repos\CreditoApi\obj\Debug\netcoreapp2.1\CreditoApi.RazorAssemblyInfo.cache
+C:\Users\tulio\source\repos\CreditoApi\obj\Debug\netcoreapp2.1\CreditoApi.RazorAssemblyInfo.cs
+C:\Users\tulio\source\repos\CreditoApi\obj\Debug\netcoreapp2.1\CreditoApi.AssemblyInfoInputs.cache
+C:\Users\tulio\source\repos\CreditoApi\obj\Debug\netcoreapp2.1\CreditoApi.AssemblyInfo.cs
+C:\Users\tulio\source\repos\CreditoApi\obj\Debug\netcoreapp2.1\CreditoApi.RazorTargetAssemblyInfo.cache
+C:\Users\tulio\source\repos\CreditoApi\obj\Debug\netcoreapp2.1\CreditoApi.dll
+C:\Users\tulio\source\repos\CreditoApi\obj\Debug\netcoreapp2.1\CreditoApi.pdb
